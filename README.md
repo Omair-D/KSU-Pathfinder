@@ -1,3 +1,3 @@
 # KSU Pathfinder
-## Your all in one AI-powered class advising
-<img src="https://github.com/Omair-D/KSU-Pathfinder/blob/main/Media/KSU_Path_Logo.png"  width="400" height="400">
+## Your All in One AI-Powered Class Advising
+<img src="https://github.com/Omair-D/KSU-Pathfinder/blob/main/logonobg.png"  width="400" height="400">
