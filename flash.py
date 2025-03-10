@@ -21,7 +21,7 @@ def chat():
 
 def get_Chat_response(text):
 
-    embeddings_path = "data/winter_olympics_2022.csv"
+    embeddings_path = "winter_olympics_2022.csv"
     
     # Load the data
     df = load_data(embeddings_path)
